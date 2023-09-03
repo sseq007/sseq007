@@ -3,13 +3,13 @@
 <p align='center'>백엔드 개발자 신준호 입니다</p>
 
 
-
 ## Tech Stack
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/springdatajpa-6DB33F?style=for-the-badge&logo=springbootdatajpa&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/jwt-007396?style=for-the-badge&logo=jwt&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 ## Project
 
