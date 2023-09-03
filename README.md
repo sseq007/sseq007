@@ -1,5 +1,5 @@
 ## ShinJunHo
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20JunHO&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20JunHo&descAlignY=51&descAlign=62)
 <p align='center'>백엔드 개발자 신준호 입니다</p>
 
 
@@ -8,7 +8,7 @@
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 ## Project
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iamekgp) 
