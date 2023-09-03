@@ -12,13 +12,13 @@
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 ## Project
 <b>HelloToday<b/>
-<a href=https://github.com/sseq007/HelloToday>goto project repository</a>
+<a href=[https://github.com/sseq007/HelloToday](https://lab.ssafy.com/s09-webmobile1-sub2/S09P12B308)>goto project repository</a>
 - Spring boot, Spring Data JPA, QueryDSL, Spring Security, oahth2, MySQL, Redis, AWS EC2
 - SSAFY 9th
 <br>
 
  <b>Solo Travlers Guide<b/>
-<a href=https://github.com/sseq007/enjoytrip_api>goto back-end repository</a>
+<a href=https://github.com/sseq007/enjoytrip_api>goto project repository</a>
 - Spring boot, MyBatis, Spring Security, JWT, MySQL
 - SSAFY 9th
 <br>
