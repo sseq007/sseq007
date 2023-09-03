@@ -1,6 +1,6 @@
 ## ShinJunHo
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20JunHo&descAlignY=51&descAlign=62)
-<p align='center'>백엔드 개발자 신준호 입니다</p>
+<p align='center'>안녕하세요 준호의 github입니다!!</p>
 
 ## Tech Stack
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
