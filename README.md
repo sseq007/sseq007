@@ -11,7 +11,17 @@
 <span><img src="https://img.shields.io/badge/jwt-007396?style=for-the-badge&logo=jwt&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 ## Project
+<b>HelloToday<b/>
+<a href=https://github.com/sseq007/HelloToday>goto project repository</a>
+- Spring boot, Spring Data JPA, QueryDSL, Spring Security, oahth2, MySQL, Redis, AWS EC2
+- SSAFY 9th
+<br>
 
+ <b>Solo Travlers Guide<b/>
+<a href=https://github.com/sseq007/enjoytrip_api>goto back-end repository</a>
+- Spring boot, MyBatis, Spring Security, JWT, MySQL
+- SSAFY 9th
+<br>
 
 ## Activities
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sseq007"/>&emsp;
