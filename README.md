@@ -15,6 +15,7 @@
 <a href=https://github.com/sseq007/HelloToday/tree/master>goto project repository</a>
 - Spring boot, Spring Data JPA, QueryDSL, Spring Security, oahth2, MySQL, Redis, AWS EC2
 - SSAFY 9th
+- 삼성 청년 SW 아카데미 - 우수 프로젝트 🏆
 <br>
 
  <b>Solo Travlers Guide<b/>
