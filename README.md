@@ -20,7 +20,7 @@
 
  <b>Solo Travlers Guide<b/>
 <a href=https://github.com/sseq007/enjoytrip_api>goto project repository</a>
-- Spring boot, MyBatis, Spring Security, JWT, MySQL
+- Spring boot, MyBatis, JWT, MySQL
 - SSAFY 9th
 <br>
 
