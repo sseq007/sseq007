@@ -11,9 +11,15 @@
 <span><img src="https://img.shields.io/badge/jwt-007396?style=for-the-badge&logo=jwt&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 ## Project
+<b>BookWave<b/>
+<a href=https://github.com/sseq007/bookwave>goto project repository</a>
+- Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Fast API, Kobert Model
+- SSAFY 9th
+<br>
+
 <b>HelloToday<b/>
 <a href=https://github.com/sseq007/hello_today>goto project repository</a>
-- Spring boot, Spring Data JPA, QueryDSL, Spring Security, oahth2, MySQL, Redis, AWS EC2
+- Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2
 - SSAFY 9th
 - 삼성 청년 SW 아카데미 - 우수 프로젝트 🏆
 <br>
