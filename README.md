@@ -10,16 +10,20 @@
 <span><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/jwt-007396?style=for-the-badge&logo=jwt&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
+<span><img src="https://img.shields.io/badge/AWS EC2-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/> </span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> </span>
+<span><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/> </span>
+<span><img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> </span>
 ## Project
 <b>BookWave<b/>
 <a href=https://github.com/sseq007/bookwave>goto project repository</a>
-- Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Fast API, Kobert Model
-- SSAFY 9th
+- Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Jenkins, Docker, Nginx, Fast API
+- SSAFY 9t
 <br>
 
 <b>HelloToday<b/>
 <a href=https://github.com/sseq007/hello_today>goto project repository</a>
-- Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2
+- Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Jenkins, Docker, Nginx
 - SSAFY 9th
 - 삼성 청년 SW 아카데미 - 우수 프로젝트 🏆
 <br>
