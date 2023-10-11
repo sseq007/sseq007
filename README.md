@@ -18,7 +18,7 @@
 <b>BookWave<b/>
 <a href=https://github.com/sseq007/bookwave>goto project repository</a>
 - Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Jenkins, Docker, Nginx, Fast API
-- SSAFY 9t
+- SSAFY 9th
 <br>
 
 <b>HelloToday<b/>
