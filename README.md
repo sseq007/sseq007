@@ -16,7 +16,7 @@
 <span><img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> </span>
 ## Project
 <b>BookWave<b/>
-<a href=https://github.com/sseq007/bookwave>goto project repository</a>
+<a href=https://github.com/sseq007/bookwave2>goto project repository</a>
 - Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Jenkins, Docker, Nginx, Fast API
 - SSAFY 9th
 <br>
