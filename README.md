@@ -40,7 +40,7 @@
 
 ## 📫 Blog & email
 <a href="https://velog.io/@cjh970324"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sseq007"/></a> 
-<img src="https://img.shields.io/badge/google-009639?style=flat-square&logo=google&logoColor=white&link=mailto:junhosin48@gmail.com"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhosin48@gmail.com)](mailto:junhosin48@gmail.com)
 
 
  
