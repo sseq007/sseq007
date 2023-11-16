@@ -12,11 +12,12 @@
 <span><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> </span>
 <span><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/> </span>
 <span><img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> </span>
-
+<br> <br>
 ## 😀 I can use
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
-
 <br>
+
+
 ## 📚Project
 <b>BookWave<b/>
 <a href=https://github.com/sseq007/bookwave2>goto project repository</a>
@@ -41,6 +42,7 @@
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sseq007"/>&emsp;
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=sseq007&show_icons=true&theme=buefy&line_height=21"/>
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseq007&exclude_repo=PyTorch&layout=compact" />
+<br>
 
 ## 📫 Blog & email
 <a href="https://velog.io/@sseq007"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sseq007"/></a> 
