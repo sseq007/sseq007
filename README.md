@@ -8,11 +8,15 @@
 <span><img src="https://img.shields.io/badge/springdatajpa-6DB33F?style=for-the-badge&logo=springbootdatajpa&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/jwt-007396?style=for-the-badge&logo=jwt&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 <span><img src="https://img.shields.io/badge/AWS EC2-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/> </span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> </span>
 <span><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/> </span>
 <span><img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> </span>
+
+## 😀 I can use
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
+
+<br>
 ## 📚Project
 <b>BookWave<b/>
 <a href=https://github.com/sseq007/bookwave2>goto project repository</a>
