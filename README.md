@@ -19,6 +19,13 @@
 
 
 ## 📚Project
+
+<b>GoodNews<b/>
+<a href=https://github.com/sseq007/goodnews>goto project repository</a>
+- AndroidStudio, Spring boot, Spring Data JPA, QueryDSL, Spring Security, MongoDb, MySQL, Redis, AWS EC2, Jenkins, Docker, Nginx
+- SSAFY 9th
+<br>
+
 <b>BookWave<b/>
 <a href=https://github.com/sseq007/bookwave2>goto project repository</a>
 - Spring boot, Spring Data JPA, QueryDSL, Spring Security, OAuth2, MySQL, Redis, AWS EC2, Jenkins, Docker, Nginx, Fast API
