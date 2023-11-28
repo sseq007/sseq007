@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20JunHo&descAlignY=51&descAlign=62)
-<p align='center'>안녕하세요 준호의 github입니다!!</p>
+
+## <p align='center'> 준호의 github입니다!!</p>
 
 ## ✨Portfolio
 ### <a href="https://glittery-period-802.notion.site/e7b4fdd1d79f4159ada0f394cc4a02f5?pvs=4">포트폴리오</a>
