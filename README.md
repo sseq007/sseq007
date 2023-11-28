@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20JunHo&descAlignY=51&descAlign=62)
 <p align='center'>안녕하세요 준호의 github입니다!!</p>
 
+## ✨Portfolio
+### <a href="https://glittery-period-802.notion.site/e7b4fdd1d79f4159ada0f394cc4a02f5?pvs=4">포트폴리오</a>
+<br>
+
 ## 🖥Tech Stack
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
@@ -13,11 +17,10 @@
 <span><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/> </span>
 <span><img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> </span>
 <br> <br>
-## 😀 I can use
+## 😀I can use
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> </span>
 <br>
-
-
+ 
 ## 📚Project
 
 <b>GoodNews<b/>
