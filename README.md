@@ -56,6 +56,7 @@
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseq007&exclude_repo=PyTorch&layout=compact" />
 <br>
 
+
 ## 📫 Blog & email
 <a href="https://velog.io/@sseq007"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sseq007"/></a> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhosin48@gmail.com)](mailto:junhosin48@gmail.com)
