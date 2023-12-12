@@ -51,6 +51,7 @@
 - SSAFY 9th
 <br>
 
+
 ## 📊Activities
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sseq007"/>&emsp;
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=sseq007&show_icons=true&theme=buefy&line_height=21"/>
