@@ -2,7 +2,7 @@
 
 ### <p align='center'> 준호의 github입니다!!</p>
 
-## <p align='center'>✨Portfolio <a href="https://glittery-period-802.notion.site/e7b4fdd1d79f4159ada0f394cc4a02f5?pvs=4">포트폴리오</a></p>
+## <p align='center'>✨Portfolio <a href="https://glittery-period-802.notion.site/JUNHO-SHIN-ff8d1c3ac53d4505b144f4fae78e47ce?pvs=4">포트폴리오</a></p>
 
 
 
